@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Kirsten. I'm a full stack developer who likes styling web pages and creating easy to use apps. I'm currently finishing up school and getting ready to start my job search.
+
+### You can reach me on LinkedIn: https://www.linkedin.com/in/kirsten-symanzik/
 
 <!--
 **KirstenS13/KirstenS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
