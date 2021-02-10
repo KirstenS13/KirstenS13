@@ -1,4 +1,4 @@
-### Hi, I'm Kirsten. I'm a full stack developer who likes styling web pages and creating easy to use apps. I'm currently finishing up school and getting ready to start my job search.
+### Hi, I'm Kirsten. I'm a full stack developer who likes styling web pages and creating easy to use apps. I just finished up Lambda School and am now starting my job search.
 
 ### You can reach me on LinkedIn: https://www.linkedin.com/in/kirsten-symanzik/
 
